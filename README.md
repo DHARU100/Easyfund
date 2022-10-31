@@ -1,4 +1,4 @@
-he read me file contains
+The read me for te project
 ------------------------
 
 Unzip the file in the email , add the folder to the Visual studio workspace.
