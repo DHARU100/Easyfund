@@ -10,7 +10,8 @@ The process to make a file is
 
 npm init -y
 npm install @wdio/cli
-npm wdio cofig
+npm wdio cofig for installing the folders 
+npx wdio run wdio.conf.js-->run coomand
 
 
 once the zipped file store in the workspacw
@@ -19,7 +20,7 @@ Go to file -->  add to the folder to the wrokspace  ( Project will in the the Vi
 
 EasyFund folder (Right click on the top of the folder )---> Run in the terminal-->npx wdio run wdio.conf.js (run command to execute the project)
 
-The run command to run the roject:npx wdio run wdio.conf.js
+The run command to run the Project:npx wdio run wdio.conf.js
 
 The three impotant files are:
 
