@@ -3,6 +3,22 @@ The read me for te project
 
 Unzip the file in the email , add the folder to the Visual studio workspace.
 
+
+The project require visual studio , node js 
+
+The process to make a file is 
+
+npm init -y
+npm install @wdio/cli
+npm wdio cofig
+
+
+once the zipped file store in the workspacw
+
+Go to file -->  add to the folder to the wrokspace  ( Project will in the the Visual studio code)
+
+EasyFund folder (Right click on the top of the folder )---> Run in the terminal-->npx wdio run wdio.conf.js (run command to execute the project)
+
 The run command to run the roject:npx wdio run wdio.conf.js
 
 The three impotant files are:
