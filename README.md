@@ -13,6 +13,11 @@ The three impotant files are:
 
 3)simpleSearchStepDef.js---> Executing file which calls all the objects and thier action
 
+
+Config file
+-----------
+spec: I had set the path of the feature fail, the main js and made only error log to appear .
+
 simpleSearchPageObject.js
 ------------------------
 The geter method and the action are preformedin this file in Simplesearch class
