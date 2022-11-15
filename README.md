@@ -11,10 +11,10 @@ The process to make a file is
 npm init -y
 npm install @wdio/cli
 npm wdio cofig for installing the folders 
-npx wdio run wdio.conf.js-->run coomand
+npx wdio run wdio.conf.js-->run comand
 
 
-once the zipped file store in the workspacw
+once the zipped file store in the workspace
 
 Go to file -->  add to the folder to the wrokspace  ( Project will in the the Visual studio code)
 
@@ -73,7 +73,6 @@ A) Given ---->I am on the home page and clicking the Find the cause
 SimpleSearch.openUrl();
 SimpleSearch.findCause();
 
-adecac0bd57f970c376afecc9871878f22328e3a
 
 B)When----->Enter the search and check in the list
    call the following in async mode which are imported from the simpleSearchPageObject.js
